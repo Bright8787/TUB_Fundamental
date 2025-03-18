@@ -1,0 +1,9 @@
+datsose24,  23.04.2024, 00:42:14, 6b3a2a55f6155308bb0b664ea637ccb8154aa32b
+Korrektur Blatt 0
+
+Aufgabe 3.6
+	Test, ob Abgaben.txt vorhanden ist: 0/10
+	  java.lang.AssertionError: File not found or corrupted. did not expect to find [true] but found [false]
+Total points for Aufgabe 3.6: 0/10
+
+Total points: 0/10

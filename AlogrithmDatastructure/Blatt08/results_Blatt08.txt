@@ -1,0 +1,29 @@
+datsose24,  25.06.2024, 00:50:33, ec2de60032146d7e5a0d18a2cbe9b4b0cd16c860
+Korrektur Blatt 8
+
+Aufgabe 3.2
+	Does the method contrast() of MatrixImage work correctly?: 5/5
+	Does the method removeVPath() of MatrixImage work correctly?: 15/15
+Total points for Aufgabe 3.2: 20/20
+
+Aufgabe 3.3
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for large DAGs?: 4/4
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for large DAGs?: 6/6
+	Does the method pathTo() of ShortestPathsTopological return a valid path for large DAGs?: 4/4
+	Does the method pathTo() of ShortestPathsTopological return a valid path for large DAGs?: 6/6
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for medium-sized DAGs?: 4/4
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for medium-sized DAGs?: 6/6
+	Does the method pathTo() of ShortestPathsTopological return a valid path for medium-sized DAGs?: 4/4
+	Does the method pathTo() of ShortestPathsTopological return a valid path for medium-sized DAGs?: 6/6
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for small DAGs?: 2/2
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for small DAGs?: 3/3
+	Does the method pathTo() of ShortestPathsTopological return a valid path for small DAGs?: 2/2
+	Does the method pathTo() of ShortestPathsTopological return a valid path for small DAGs?: 3/3
+Total points for Aufgabe 3.3: 50/50
+
+Aufgabe 3.4
+	Does the method leastContrastImageVPath() of ContentAwareImageResizing return an optimal path?: 20/20
+	Does the method leastContrastImageVPath() of ContentAwareImageResizing return a valid path?: 10/10
+Total points for Aufgabe 3.4: 30/30
+
+Total points: 100/100

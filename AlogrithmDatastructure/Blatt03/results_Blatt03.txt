@@ -1,0 +1,22 @@
+datsose24,  13.05.2024, 14:33:22, c0951e04d651ffa01cff27b987c7da3703398cfe
+Korrektur Blatt 3
+
+Aufgabe 4.1
+	Checks Implementation of testPermutation: 15/15
+	Checks Implementation of testPermutation: 10/10
+	Checks Implementation of testPermutation: 10/10
+Total points for Aufgabe 4.1: 35/35
+
+Aufgabe 4.2
+	Checks Implementation of testDerangements: 9/9
+	Checks Implementation of testDerangements: 9/9
+	Checks Implementation of testDerangements: 8/8
+	Checks Implementation of testDerangements: 9/9
+Total points for Aufgabe 4.2: 35/35
+
+Aufgabe 4.3
+	Checks Implementation of testsameElements: 15/15
+	Checks Implementation of testsameElements: 15/15
+Total points for Aufgabe 4.3: 30/30
+
+Total points: 100/100
